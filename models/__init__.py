@@ -1,1 +1,1 @@
-from .fm import FactorizationMachine
+from .FactorizationMachine import FactorizationMachine
