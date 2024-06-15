@@ -1,0 +1,13 @@
+{
+    "model": "fm",
+    "data_path": "data/train_3000.csv",
+    "user_col": "ID",
+    "label_col": "Click",
+    "seed": 917,
+    "epochs": 3,
+    "learning_rate": 0.001,
+    "criterion": "MSE",
+    "optimizer": "Adam",
+    "batch_size": 32,
+    "save_interval": 5
+}
